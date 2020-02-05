@@ -1,0 +1,46 @@
+body{
+    background-image: url(../img/background.jpg);
+    padding: 300px 100px;
+    background-repeat: no-repeat;
+    margin: 200px;
+   background-color: black;
+}
+a {
+    color:red;
+    text-decoration: wavy;
+    font-size: 20px;
+font-display: 25px;
+padding: 25px;
+padding-inline: 10px; 
+}
+a :hover{
+    color: darkred;
+    text-decoration: none;
+}
+h1{
+   color: aliceblue;
+    font-size: 40px;
+    padding: 16px;
+}
+h2{
+    font-color:red;
+    font-size: 20px;
+
+}
+p{
+    color: blanchedalmond;
+    font size: 30px;
+}
+h3{
+background-color: coral;
+color: blue;
+font-size: 30px;
+text-align: left;
+}
+h4{
+    font-size: 40px;
+    color: darkgray;
+    text-align: center;
+    background-color: black;
+    background-image:url(../img/gtr\ r34.jpg) ;
+}
